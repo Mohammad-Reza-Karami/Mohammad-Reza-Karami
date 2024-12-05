@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Mohammad Reza Karami</h1>
-<h3 align="center">A passionate computer engineering student from Iran</h3>
+<p align="center"> In the Name of Allah </p>
+<h1 align="left">Hi, I'm Mohammad Reza Karami</h1>
+<h3 align="left">A passionate computer engineering student from Iran</h3>
 
 - 🌱 I’m currently learning **C++ language**
 
